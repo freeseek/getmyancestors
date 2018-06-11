@@ -1,0 +1,1 @@
+I do not update this software anymore. Linekio is currently maintaining the <a href="https://github.com/Linekio/getmyancestors">new version</a>.
